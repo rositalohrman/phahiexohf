@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hahheitoos.dolyw.com/sitemap.xml
